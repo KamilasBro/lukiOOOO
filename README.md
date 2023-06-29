@@ -1,5 +1,5 @@
 # About
-lukiOOOO is program inspired by when dvd hits corner https://www.youtube.com/watch?v=5mGuCdlCcNM
+lukiOOOO is program coded in JavaScript and it is inspired by when dvd hits corner https://www.youtube.com/watch?v=5mGuCdlCcNM
 #
 it is builded similar to this project https://github.com/KamilasBro/Luki-Brick-Game-ALFA
 #
